@@ -1,0 +1,25 @@
+package at.spengergasse.company.model.entity;
+
+public enum Category {
+    NON_FICTION
+    ,CHILDREN_LITERATURE
+    ,FANTASY
+    ,ROMANCE
+    ,HISTORICAL_FICTION
+    ,BIOGRAPHY
+    ,MEMOIR
+    ,SCIENCE_FICTION
+    ,HUMOR
+    ,COOKBOOK
+    ,LITERATURE
+    ,MYSTERY
+    ,LITERARY_FICTION
+    ,SHORT_STORIES
+    ,NOVELS
+    ,POETRY
+    ,THRILLER
+    ,CLASSICS
+    ,ADVENTURE_FICTION
+    ,SCHOOL
+    ,PROGRAMMING
+}
